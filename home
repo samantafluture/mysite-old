@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+
+<head>
+
+<!--
+$$$$$AMANTA GIMENEZ FLUTURE! :D
+-->
+  <meta charset="utf-8">
+	<meta name="keywords" content="samanta, fluture, creative, coding, artist, design" id="keywords">
+
+  <link href="style.css" media="screen" rel="stylesheet" />
+	<!-- Typekit -->
+	<script type="text/javascript" src="//use.typekit.net/dph8cwx.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<meta name="viewport" content="width=500">
+
+  <title>SAMANTA FLUTURE</title>
+
+</head>
+
+<body>
+<div id="wrapper">
+	<header>
+		<h1>SAMANTA FLUTURE</h1>
+		<span id="subtitle"><a href="http://samantafluture.tumblr.com">Artist</a> and researcher. Co-founder of <a href="http://blendingvisions.com.br">Blending Visions</a>. Member of RedBull Digital Academy. </span>
+	</header>
+	
+	<section class="work">
+		<h2>I like to make things</h2>
+		<ul>
+			<li>I use my hands to draw, paint and sew.</li>
+			<li>I code creativity with HTML, CSS and JS.</li>
+			<li>I dream big while experimenting with Processing and Arduino.</li>
+			<li>I am inspired by games when designing 8bit pieces and weird sounds.</li>
+		</ul>
+
+	</section>
+
+	<section class="work">
+		<h2>My daily job is to create experiences</h2>
+		<ul>
+			<li><a href="">Pega Monstro</a> is a mobile game built with Unity3D and Vuforia SDK (RA) for TimoKids App.</li>
+			<li><a href="http://samantafluture.com/sputnik">Sputnik Project</a> is a web app built with HTML5 WebRTC, WebGL, Three.js and Google Street View.</li>
+			<li><a href="http://passageiroproject.tumblr.com">Passageiro</a> is a mobile app built with OpenFrameworks and C++.</li>
+			<li><a href="https://medium.com/@samantafluture/ocupac%C3%A9u-sp-3a12f27af675">OcupaCéu</a> is a mobile app built with Unity3D and Vuforia SDK (RA).</li>
+		</ul>
+
+	</section>
+
+	<section class="work">
+		<h2>Sometimes they call me "artist"</h2>
+		<ul>
+			<li><a href="http://samantafluture.com/sputnik">Sputnik Project</a> was founded by RedBull (SP, 2014).</li>
+			<li>3 months of <a href="http://passageiroproject.tumblr.com">Artistic Residence</a> at MIS (SP, 2013).</li>
+			<li>Exhibited at Streaming Festival (Amsterdam, 2013).</li>
+			<li>Exhibited at MUBE (SP, 2012).</li>
+		</ul>
+
+	</section>
+
+
+	<section class="projects">
+		<h2>I also write for cool blogs</h2>
+		<span>I mostly cover tech news and trends, apps and games reviews, design and art inspiration, tutorials and diy stuff. Take a look at my regular collaborations:</span>
+		<p>
+
+			 <a href="http://brainstorm9.com.br/author/sfluture" style="color: #3efe66">Brainstorm9</a>
+			 <a href="http://www.designculture.com.br/author/samantafluture/" style="color: #dfec99">Design Culture</a>
+			 <a href="http://www.tecnoartenews.com/author/samanta-fluture/" style="color: #feb33e">TecnoArteNews</a>
+			 <a href="http://www.conversadesofa.com/author/samanta/" style="color: #fe3ea6">Conversa de Sofá</a>
+			 <a href="http://followthecolours.com.br/author/samanta/" style="color: #5645ff">Follow The Colours</a>
+			 <a href="http://iinterativa.com.br/author/samanta-fluture/" style="color: #fe473e">Iinterativa blog's company</a>
+		 </p>
+
+	</section>
+
+  <img id="dude" src="https://d262ilb51hltx0.cloudfront.net/max/900/1*1UV6gn2o-blSXGtASSKYwA.jpeg" />
+  <span class="caption">A portrait of me exploring and framing things.</span>
+
+
+	<section class="elsewhere">
+
+		<p>I'm available for freelance.</p>
+		<p>I frequently blog on <a href="https://medium.com/@samantafluture/">Medium</a> &amp; <a href="http://twitter.com/samantafluture">Twitter</a>.</p>
+		<p>I like reading your emails: <a href="mailto:samantafluture@gmail.com">samantafluture@gmail.com</a>.</p>
+		<p>I live in Sao Paulo, Brazil. If you're also here, drop me a line and I'll buy you a beer!</p>
+
+	</section>
+</div>
+
+</body>
+</html>
